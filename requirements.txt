@@ -1,0 +1,8 @@
+fastapi
+python-jose
+passlib
+mysql-connector
+mysql-connector-python
+python-multipart
+websockets
+uvicorn
