@@ -23,4 +23,3 @@ async def root():
     return  {"saludo": "bienvenido a tu api de comentarios"}
 
 
-contraseña_db = "sha41HYqXgSIl0T77sad"
