@@ -6,3 +6,5 @@ mysql-connector-python
 python-multipart
 websockets
 uvicorn
+bcrypt
+cryptography
